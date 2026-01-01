@@ -1,4 +1,4 @@
-# MazeQuest – Algorithmic Maze Game
+# MazeQuest 1.0 – Algorithmic Maze Game
 
 MazeQuest is an educational Java Swing game that teaches algorithmic thinking through play. Players write pseudocode to guide a character through randomly generated mazes, collect carrots, and reach the exit—while learning efficiency, control flow, and debugging concepts along the way.
 
