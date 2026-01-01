@@ -63,7 +63,9 @@ MazeQuest/
 │       ├── MazeGenerator.java
 │       ├── SoundManager.java
 │       ├── Cell.java
-│       └── background.wav   // Optional background music
+│       └── background.wav
+│       └── videoplayback.wav
+
 ```
 
 ---
