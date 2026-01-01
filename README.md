@@ -128,11 +128,11 @@ Manages the code editor UI, line numbers, and execution controls.
 
 The following images are captured directly from MazeQuest gameplay and demonstrate the maze layout, code editor, and step-by-step execution system.
 
-<img width="2069" height="1284" alt="Ekran görüntüsü 2025-12-20 171042" src="https://github.com/user-attachments/assets/b3ab9147-403c-473e-b05d-fe480037a744" />
 *Default theme — Level 1 (introductory maze size and mechanics)*
+<img width="2069" height="1284" alt="Ekran görüntüsü 2025-12-20 171042" src="https://github.com/user-attachments/assets/b3ab9147-403c-473e-b05d-fe480037a744" />
 
-<img width="2068" height="1275" alt="Ekran görüntüsü 2025-12-20 171126" src="https://github.com/user-attachments/assets/d9695a3c-6e83-4f00-ab57-02fe9746f5cb" />
 *Default theme — Level 4 (larger maze with increased complexity)*
+<img width="2068" height="1275" alt="Ekran görüntüsü 2025-12-20 171126" src="https://github.com/user-attachments/assets/d9695a3c-6e83-4f00-ab57-02fe9746f5cb" />
 
-<img width="2064" height="1279" alt="Ekran görüntüsü 2025-12-20 171141" src="https://github.com/user-attachments/assets/32798a39-c858-47a6-8bcd-544c5f69fb13" />
 *Stranger Things theme — alternate visual style with the same algorithmic gameplay*
+<img width="2064" height="1279" alt="Ekran görüntüsü 2025-12-20 171141" src="https://github.com/user-attachments/assets/32798a39-c858-47a6-8bcd-544c5f69fb13" />
