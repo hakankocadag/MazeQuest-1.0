@@ -72,7 +72,7 @@ MazeQuest/
 
 ### Sound Note
 
-The `SoundManager` looks for a file named `background.wav` inside the package directory.
+The `SoundManager` looks for a file named `background.wav` and `videoplayback.wav` inside the package directory.
 If the file is missing, the game will still run—just without background music.
 
 ---
